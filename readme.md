@@ -23,7 +23,7 @@ React | Typescript | Tailwind
 ## DESKTOP
 <br/>
 
-![Screenshot 2022-09-23 002156](https://user-images.githubusercontent.com/102326117/191886732-b702a6ba-546d-4e1d-bf1c-f52cdfb9ed67.png)
+![preview](https://user-images.githubusercontent.com/102326117/191888918-bcb94bf2-f0d9-4581-87b3-79e96919e827.png)
 
 ## MOBILE:
 <br/>
