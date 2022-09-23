@@ -38,7 +38,7 @@ function App() {
             <li>Gift Cards</li>
             <li>Lojas</li>
           </ul>
-          <button className="text-xs px-8 py-3 rounded-md border border-indigo-800 cursor hover:bg-violet-800">
+          <button className="text-xs font-extrabold w-44 px-8 h-[37px] rounded-md border border-indigo-800 cursor hover:bg-violet-800">
             PEGAR MEU CAFÉ
           </button>
         </div>
@@ -86,8 +86,8 @@ function App() {
             <h1 className="font-bold md:text-[80px] text-5xl text-center">
               Great Coffee
             </h1>
-            <h1 className="font-bold text-violet-900 md:text-[80px] text-5xl text-center">
-              Great Coffee
+            <h1 className="font font-bold text-violet-900 md:text-[80px] text-5xl text-center">
+              &lt;Great Coffee/&gt;
             </h1>
           </div>
         </div>
